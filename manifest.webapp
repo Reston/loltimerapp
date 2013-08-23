@@ -1,0 +1,32 @@
+{
+  "version": "0.1",
+  "name": "LolTimer",
+  "description": "A league of legends Timer for objectives of the Summoner's Rift map",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/img/icons/icon-16.png",
+    "60": "/img/icons/icon-60.png",
+    "128": "/img/icons/icon-128.png"
+  },
+  "developer": {
+    "name": "José Ordoñez",
+    "url": "http://reston.com.ve"
+  },
+  "installs_allowed_from": ["*"],
+  "appcache_path": "/cache.manifest",
+  "locales": {
+    "es": {
+      "description": "Temporizador para los objetivos de la jungla en el mapa de League of legends grieta del invodacor.",
+      "developer": {
+        "url": "http://reston.com.ve"
+      }
+    },
+    "pt": {
+      "description": "Temporizador para os objetivos de selva no mapa de League of Legends do Rift Summoner",
+      "developer": {
+        "url": "http://reston.com.ve"
+      }
+    }
+  },
+  "default_locale": "en"
+}

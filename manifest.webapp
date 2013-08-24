@@ -9,7 +9,7 @@
     "128": "/img/icons/icon-128.png"
   },
   "developer": {
-    "name": "José Ordoñez",
+    "name": "Jose Ordonez",
     "url": "http://reston.com.ve"
   },
   "installs_allowed_from": ["https://marketplace.mozilla.org", "https://reston.github.io/loltimerapp"],
@@ -28,5 +28,6 @@
       }
     }
   },
-  "default_locale": "en"
+  "default_locale": "en",
+  "orientation": ["portrait"]
 }
